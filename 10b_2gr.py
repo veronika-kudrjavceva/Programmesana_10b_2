@@ -1,4 +1,4 @@
-print("Hello") 	
+print(12/2*6) 	
 #Kudrjavceva Veronika
 2 	
 Melnic Ana
