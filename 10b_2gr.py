@@ -1,4 +1,4 @@
-print("Hello") 	
+print(12/2*9) 	
 #Kudrjavceva Veronika
 2 	
 Melnic Ana
@@ -7,20 +7,20 @@ Mihailovs Alekss
 4 	
 Orlova Katerina
 5 	
-Rimare Sabîne
+Rimare Sabine
 6 	
 Sidorenko Aleksandrs
 7 	
-Siïiòð Deniss
+Silins Deniss
 8 	
 Skodorovs Vlads
 9 	
 Smirnovs Volodars
 10 	
-Verþanovskis Marks
+Verzanovskis Marks
 11 	
 Volkova Veronika
 12 	
-Zariòð Roberts
+Zarins Roberts
 13 	
-Þaravins Kirills
+Zaravins Kirills
